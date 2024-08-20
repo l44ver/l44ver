@@ -10,9 +10,9 @@
     Lauren Vasconcelos ︵‿︵‿୨♡୧‿︵‿︵
 </p>
                                                                     
-    │▸ about me                                            |
-      ✭ she/her - brazilian - ptbr / english
-      ✭ System Analysis and Development - FIAP (2/5)
+    │▸ about me                                                |
+      ✭ she/her - brazilian - ptbr
+      ✭ System Analysis and Development - FIAP (2/4)
                                              
     │▸ learning
       ✭ english
@@ -23,6 +23,12 @@
       ✭ HTML / CSS
       ✭ Python
       ✭ GML
+
+    │▸ tools
+      ✭ Bootstrap
+      ✭ Figma / Canva
+      ✭ Git
+      ✭ IntelliJ / VScode
 
     │▸ interested
       ✭ C# on Unity
