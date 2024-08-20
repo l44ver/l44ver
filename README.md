@@ -1,16 +1,29 @@
-## Hi there 👋
+<table>
+    <tr>
+        <td style="width: 50%;">
+            <img src="https://github.com/user-attachments/assets/c25e374f-f241-411f-a87d-f8a879244698" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 50%; vertical-align: middle;">                                                                                                                         
+                                                                                                  
+    │▸ about me                                                       |
+      ✭ she/her - brazilian - ptbr / english
+                                             
+    │▸ learning
+      ✭ english
+      ✭ java
+      ✭ UX / figma
 
-<!--
-**l44ver/l44ver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    │▸ interested
+      ✭ C# on Unity
+      ✭ TypeScript
 
-Here are some ideas to get you started:
+    │▸ lenguages
+      ✭ HTML / CSS
+      ✭ Python
+      ✭ GML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    │▸ operating systems
+      ✭ Linux
+      ✭ Windowns
+
+![l44ver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l44ver&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
