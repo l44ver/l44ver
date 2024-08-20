@@ -33,3 +33,7 @@
       ✭ Windowns
 
 ![l44ver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=l44ver&theme=nightowl&hide_border=false)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=l44ver&label=Profile%20Views&color=12&icon=9&pretty=true" />
+</a>
