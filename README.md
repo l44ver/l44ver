@@ -17,7 +17,6 @@
     │▸ learning
       ✭ english
       ✭ java
-      ✭ UX / figma
 
     │▸ lenguages
       ✭ HTML / CSS
