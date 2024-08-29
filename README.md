@@ -7,10 +7,10 @@
             
 <p>    
                 
-    Lauren Vasconcelos ︵‿︵‿୨♡୧‿︵‿︵
+    Lauren V. ︵‿︵‿୨♡୧‿︵‿︵
 </p>
                                                                     
-    │▸ about me                                                |
+    │▸ about me                                             |
       ✭ she/her - brazilian - ptbr
       ✭ System Analysis and Development - FIAP (2/4)
                                              
