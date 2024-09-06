@@ -12,7 +12,7 @@
                                                                     
     │▸ about me                                             |
       ✭ she/her - brazilian - ptbr
-      ✭ System Analysis and Development - FIAP (2/4)
+      ✭ System Analysis and Development
                                              
     │▸ learning
       ✭ english
