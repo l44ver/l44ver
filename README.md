@@ -12,7 +12,6 @@
                                                                     
     │▸ about me                                             |
       ✭ she/her - brazilian - ptbr
-      ✭ System Analysis and Development
                                              
     │▸ learning
       ✭ english
