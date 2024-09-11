@@ -16,6 +16,7 @@
     │▸ learning
       ✭ english
       ✭ java
+      * javascript
 
     │▸ lenguages
       ✭ HTML / CSS
@@ -23,13 +24,14 @@
       ✭ GML
 
     │▸ tools
+      * Git
       ✭ Bootstrap
       ✭ Figma / Canva
-      ✭ Git
       ✭ IntelliJ / VScode
 
     │▸ interested
-      ✭ C# on Unity
+      ✭ C#
+      * Unity
       ✭ TypeScript
 
     │▸ operating systems
