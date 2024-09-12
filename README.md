@@ -11,12 +11,12 @@
 </p>
                                                                     
     │▸ about me                                             |
-      ✭ she/her - brazilian - ptbr
+      ✭ she/her - brazilian - PTBR
                                              
     │▸ learning
-      ✭ english
-      ✭ java
-      * javascript
+      ✭ English
+      ✭ Java
+      * Javascript
 
     │▸ lenguages
       ✭ HTML / CSS
@@ -24,14 +24,14 @@
       ✭ GML
 
     │▸ tools
-      * Git
+      ✭ Git
       ✭ Bootstrap
       ✭ Figma / Canva
       ✭ IntelliJ / VScode
 
     │▸ interested
       ✭ C#
-      * Unity
+      ✭ Unity
       ✭ TypeScript
 
     │▸ operating systems
