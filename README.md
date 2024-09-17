@@ -28,7 +28,6 @@
       ✭ Git
       ✭ Bootstrap
       ✭ Figma
-      ✭ VScode
 
     │▸ interested
       ✭ C#
