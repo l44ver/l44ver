@@ -10,13 +10,14 @@
     Lauren V. ︵‿︵‿୨♡୧‿︵‿︵
 </p>
                                                                     
-    │▸ about me                                             |
-      ✭ she/her - brazilian - PTBR
+    │▸ about me                                           |
+      ✭ she/her - brazilian - pt/br
                                              
     │▸ learning
       ✭ English
+      ✭ React
+      ✭ Javascript
       ✭ Java
-      * Javascript
 
     │▸ lenguages
       ✭ HTML / CSS
@@ -26,8 +27,8 @@
     │▸ tools
       ✭ Git
       ✭ Bootstrap
-      ✭ Figma / Canva
-      ✭ IntelliJ / VScode
+      ✭ Figma
+      ✭ VScode
 
     │▸ interested
       ✭ C#
