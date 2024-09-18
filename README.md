@@ -19,20 +19,23 @@
       ✭ Javascript
       ✭ Java
 
-    │▸ lenguages
-      ✭ HTML / CSS
+    │▸ languages
       ✭ Python
       ✭ GML
 
-    │▸ tools
+    │▸ skills
+      ✭ HTML / CSS
+      ✭ Figma / Canva
+
+    │▸ tools and frameworks
       ✭ Git
+      ✭ Tailwind
       ✭ Bootstrap
-      ✭ Figma
 
     │▸ interested
       ✭ C#
-      ✭ Unity
       ✭ TypeScript
+      ✭ Unity
 
     │▸ operating systems
       ✭ Linux
