@@ -15,22 +15,22 @@
                                              
     │▸ learning
       ✭ English
-      ✭ React
-      ✭ Javascript
+      ✭ SQL
       ✭ Java
+      ✭ Javascript
+      ✭ React
 
     │▸ languages
       ✭ Python
       ✭ GML
 
     │▸ skills
+      ✭ Git
       ✭ HTML / CSS
       ✭ Figma / Canva
 
-    │▸ tools and frameworks
-      ✭ Git
-      ✭ Tailwind
-      ✭ Bootstrap
+    │▸ frameworks, libraries
+      ✭ Tailwind & Bootstrap
 
     │▸ interested
       ✭ C#
