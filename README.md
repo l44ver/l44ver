@@ -15,14 +15,14 @@
                                              
     │▸ learning
       ✭ English
-      ✭ SQL
       ✭ Java
       ✭ Javascript
-      ✭ React
 
     │▸ languages
       ✭ Python
       ✭ GML
+      ✭ SQL
+      ✭ Kotlin
 
     │▸ skills
       ✭ Git
@@ -31,6 +31,7 @@
 
     │▸ frameworks, libraries
       ✭ Tailwind & Bootstrap
+      ✭ React
 
     │▸ interested
       ✭ C#
